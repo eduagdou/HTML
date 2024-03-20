@@ -1,0 +1,21 @@
+.boton{
+    background-color: aqua;
+    color: aliceblue#ffffff;
+    padding: 15px 30px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 50px;
+    margin: 30px;
+}
+body{
+    
+    text-align: center;
+
+}
+section{
+    margin-top: 50px;
+    background-color: blueviolet;
+    height: 200px;
+    
+}
